@@ -26,7 +26,7 @@ Generation USA Graduate.
 ![Alt Text](https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif)
 
 Project Link  
-https://github.com/Edwinallen94/FINAL_PROJECT\
+https://github.com/Edwinallen94/FINAL_PROJECT  
 Contributors  
 [Edwin](https://github.com/Edwinallen94)
 [Shante](https://github.com/bfemeng)
