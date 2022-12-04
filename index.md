@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 
 Maliha Khan
 ============
@@ -15,8 +12,8 @@ Driven by coding.
 ## Socials
 ---------
 
--[Linkedin](https://www.linkedin.com/in/malihatahirkhan/)
--[GitHub](https://github.com/Maliha000)
+[<img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png">](https://www.linkedin.com/in/malihatahirkhan/)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Maliha000)
 
 ## About
 --------
@@ -24,14 +21,10 @@ Driven by coding.
 Full-Stack Web Developer
 Generation USA Graduate.
 
-## Experiences
+## Projects
 ----------------
 
--Business Intelligence - Data Visulization using Tableau, and Python
--Generation Junior Full Stack Java Developer Program - Creating full stack web
-applications with Java using Spring Boot Framework, JavaScript, HTML5, CSS3. 
-  -[W3 School JavaScript Certification](https://verify.w3schools.com/1N50T1QSL8);
--Communities Foundations of Texas - Data Visulaiztions using PowerBI, and Python
+![Alt Text](https://www.canva.com/design/DAFTykj0ML4/fEhZMBUkN_EUOdP4hkJKsg/edit?utm_content=DAFTykj0ML4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Skills
 -----------
