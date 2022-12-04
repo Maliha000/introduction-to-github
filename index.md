@@ -25,11 +25,10 @@ Generation USA Graduate.
 ----------------
 ![Alt Text](https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif)
 
-Project Link
--------------
-https://github.com/Edwinallen94/FINAL_PROJECT
+Project Link\
+https://github.com/Edwinallen94/FINAL_PROJECT\
 Contributors\
-[Edwin](https://github.com/Edwinallen94) 
+[Edwin](https://github.com/Edwinallen94)
 [Shante](https://github.com/bfemeng)
 Languages\
 <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> 
