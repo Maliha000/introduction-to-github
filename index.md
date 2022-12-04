@@ -12,8 +12,8 @@ Driven by coding.
 ## Socials
 ---------
 
-[<img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="150">](https://www.linkedin.com/in/malihatahirkhan/)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200">](https://github.com/Maliha000)
+[<img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="100">](https://www.linkedin.com/in/malihatahirkhan/)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">](https://github.com/Maliha000)
 
 ## About
 --------
