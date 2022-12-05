@@ -1,6 +1,5 @@
 
 <div style="text-align: center;"> Maliha Khan </div>
-============
 
 Life long learner.
 ------------------
