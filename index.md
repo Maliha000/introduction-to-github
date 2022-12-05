@@ -17,10 +17,18 @@ Based in Dallas, Texas.
 
 <p>Hi, Im Maliha. I love creating a program and seeing it in action. My love for coding started when I took my first Java class at the University of Texas at Dallas. After graduating with a Bachelor of Science in Information Technology, I took a full-stack web development boot camp with Generation USA where I learned HTML, CSS, JavaScript, Java, and Spring Boot. I hope to utilize my skills and knowledge in a software development career.</p>
 
+## Experiences
+----------------
+* Business Intelligence - Data Visulization using Tableau, and Python 
+* Generation Junior Full Stack Java Developer Program - Creating full stack web applications with Java using Spring Boot Framework, JavaScript, HTML5, CSS3. 
+* [W3 School JavaScript Certification]((https://verify.w3schools.com/1N50T1QSL8);
+* Communities Foundations of Texas - Data Visulaiztions using PowerBI, and Python
+
 ## Projects
 ----------------
 <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/yJ4lmDe"  ><a href="//imgur.com/a/yJ4lmDe">Final Project Source Code</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="//imgur.com/a/yJ4lmDe"/>
+
 
 Project Link  
 https://github.com/Edwinallen94/FINAL_PROJECT  
