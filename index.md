@@ -28,7 +28,7 @@ Based in Dallas, Texas.
 ----------------
 <p float="left">
     <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500"/>
-    <img src="https://drscdn.500px.org/photo/1057812354/m%3D900/v2?sig=49c37c19c259b1313c30492b979d1ed8315546ac3f10ede9b34158742c45d3ac" width="500/>
+    <img src="https://drscdn.500px.org/photo/1057812355/m%3D900/v2?sig=9806865fb9ff50aa5ba81e512183ceaba4f66ec4101a68d29a51beeeab5420e2" width="500/>
 </p>  
 
 
