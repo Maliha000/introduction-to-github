@@ -6,8 +6,6 @@ Life long learner.
 
 Based in Dallas, Texas.
 
-Driven by coding.
-
 ## Socials
 ---------
 
@@ -17,8 +15,7 @@ Driven by coding.
 ## About
 --------
 
-Full-Stack Web Developer
-Generation USA Graduate.
+<p>Hi, Im Maliha. I love creating a program and seeing it in action. My love for coding started when I took my first Java class at the University of Texas at Dallas. After graduating with a Bachelor of Science in Information Technology, I took a full-stack web development boot camp with Generation USA where I learned HTML, CSS, JavaScript, Java, and Spring Boot. I hope to utilize my skills and knowledge in a software development career.</p>
 
 ## Projects
 ----------------
