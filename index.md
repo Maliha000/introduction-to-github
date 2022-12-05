@@ -1,5 +1,5 @@
 
-<div style="text-align: center;"> Maliha Khan </div>
+<h1 style="text-align: center;"> Maliha Khan </h1>
 
 Life long learner.
 ------------------
