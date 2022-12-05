@@ -24,6 +24,7 @@ Based in Dallas, Texas.
 * [W3 School JavaScript Certification](https://verify.w3schools.com/1N50T1QSL8)
 * Communities Foundations of Texas - Data Visulaiztions using PowerBI, and Python
 
+
 ## Projects
 ----------------
 <p float="left">
@@ -38,6 +39,7 @@ Contributors
 [Shante](https://github.com/bfemeng)  
 Languages  
 <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
+
 
 ## Skills
 -----------
