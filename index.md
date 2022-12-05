@@ -27,7 +27,7 @@ Based in Dallas, Texas.
 ## Projects
 ----------------
 <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
-
+<img src="C:/Users/malih/Downloads/2022-12-04 (1).png"/>
 
 Project Link  
 https://github.com/Edwinallen94/FINAL_PROJECT  
