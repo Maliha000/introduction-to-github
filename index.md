@@ -23,8 +23,7 @@ Generation USA Graduate.
 
 ## Projects
 ----------------
-![Alt Text](https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif)
-<img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="250" height="250"/>
+<img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="300" height="300"/>
 
 Project Link  
 https://github.com/Edwinallen94/FINAL_PROJECT  
