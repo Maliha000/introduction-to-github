@@ -37,7 +37,7 @@ Languages
 -----------
 ### Technical
 --------------
--HTML, CSS, JavaScript, Java, Python, SQL <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> <img src="https://www.shutterstock.com/shutterstock/photos/2097680263/display_1500/stock-vector-java-programming-language-art-and-logo-designed-with-curves-tea-cup-art-2097680263.jpg" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="200">
+-HTML, CSS, JavaScript, Java, Python, SQL <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
 ### Soft
 ----------
 -Persistence, Growth Mindset, Proactivity, Personal Responsibility
