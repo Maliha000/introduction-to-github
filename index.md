@@ -20,6 +20,7 @@ Based in Dallas, Texas.
 ## Projects
 ----------------
 <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yJ4lmDe"  ><a href="//imgur.com/a/yJ4lmDe">Final Project Source Code</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Project Link  
 https://github.com/Edwinallen94/FINAL_PROJECT  
