@@ -27,7 +27,6 @@ Based in Dallas, Texas.
 ## Projects
 ----------------
 <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
-<img src="//imgur.com/a/yJ4lmDe"/>
 
 
 Project Link  
@@ -45,7 +44,12 @@ Languages
 <img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
 ### Soft
 ----------
--Persistence, Growth Mindset, Proactivity, Personal Responsibility
+* Persistence
+* Growth Mindset
+* Proactivity
+* Personal Responsibility
+* Orientation to Detail
+* Communication
 
 
 
