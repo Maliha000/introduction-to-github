@@ -30,7 +30,7 @@ Generation USA Graduate.
 -Business Intelligence - Data Visulization using Tableau, and Python
 -Generation Junior Full Stack Java Developer Program - Creating full stack web
 applications with Java using Spring Boot Framework, JavaScript, HTML5, CSS3. 
-  -[W3 School JavaScript Certification](https://verify.w3schools.com/1N50T1QSL8);
+  -[W3 School JavaScript Certification](https://verify.w3schools.com/1N50T1QSL8)
 -Communities Foundations of Texas - Data Visulaiztions using PowerBI, and Python
 
 ## Skills
