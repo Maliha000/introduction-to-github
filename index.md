@@ -28,14 +28,13 @@ Based in Dallas, Texas.
 ----------------
 <div class="row">
   <div class="column">
-    <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" style="width:100%">
+    <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" style="width:100px">
   </div>
   <div class="column">
-    <img src="https://drscdn.500px.org/photo/1057812354/m%3D900/v2?sig=49c37c19c259b1313c30492b979d1ed8315546ac3f10ede9b34158742c45d3ac" style="width:100%">
+    <img src="https://drscdn.500px.org/photo/1057812354/m%3D900/v2?sig=49c37c19c259b1313c30492b979d1ed8315546ac3f10ede9b34158742c45d3ac" style="width:100px">
   </div>
 </div>
-<img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
-<img src="https://drscdn.500px.org/photo/1057812354/m%3D900/v2?sig=49c37c19c259b1313c30492b979d1ed8315546ac3f10ede9b34158742c45d3ac" width="500" height="500"/>
+
 
 Source Code 
 https://github.com/Edwinallen94/FINAL_PROJECT  
