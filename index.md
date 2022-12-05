@@ -27,7 +27,7 @@ Based in Dallas, Texas.
 ## Projects
 ----------------
 <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500" height="500"/>
-<img src="C:/Users/malih/Downloads/2022-12-04 (1).png"/>
+
 
 Project Link  
 https://github.com/Edwinallen94/FINAL_PROJECT  
@@ -35,7 +35,7 @@ Contributors
 [Edwin](https://github.com/Edwinallen94)  
 [Shante](https://github.com/bfemeng)  
 Languages  
-<img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> 
+<img src="https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png" width="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
 
 ## Skills
 -----------
