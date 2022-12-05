@@ -28,11 +28,10 @@ Based in Dallas, Texas.
 ----------------
 <p float="left">
     <img src="https://media.giphy.com/media/g2D8z9BW4t1rECPh82/giphy.gif" width="500"/>
-    <img src="https://drscdn.500px.org/photo/1057812355/m%3D900/v2?sig=9806865fb9ff50aa5ba81e512183ceaba4f66ec4101a68d29a51beeeab5420e2" width="500/>
+    <img src="https://drscdn.500px.org/photo/1057812355/m%3D900/v2?sig=9806865fb9ff50aa5ba81e512183ceaba4f66ec4101a68d29a51beeeab5420e2" width="500"/>
 </p>  
 
-
-Source Code 
+Source Code  
 https://github.com/Edwinallen94/FINAL_PROJECT  
 Contributors  
 [Edwin](https://github.com/Edwinallen94)  
